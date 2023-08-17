@@ -1,6 +1,8 @@
 # Discord-Token Generator 
 
-# Discord-Token-Generator
+# For buy
+
+Discord: berkww , Telegram : Elminsterxld
 
 Fast Discord Token Generator with proxy support coded in node.js
 
