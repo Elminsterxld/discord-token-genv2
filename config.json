@@ -1,0 +1,10 @@
+{
+    "PROXY_ADDR" : "",
+    "PROXY_USERNAME" :"",
+    "PROXY_PASSWORD" :"",
+    "captchakey" : "",
+    "vaksmsapikey" :"",
+    "koopechkapikey" : "",
+    "smsactivatekey": "",
+    "headless": false
+}
