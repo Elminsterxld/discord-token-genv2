@@ -18,9 +18,9 @@ Customizable options in `config.json`
 
 
 
-* **2captcha Api Key:**  ![2captcha](https://2captcha.com/) (Not necessary if you're going to use it in headless: false mode.)
-* **Kopeechka Api Key**  ![Kopeechka](https://kopeechka.store/) (won't work without)
-* **Proxy İnfo(Residential)**  ![İproyal](https://iproyal.com/) ( not necessary, better if used)
+* **2captcha Api Key:**  [2captcha](https://2captcha.com/) (Not necessary if you're going to use it in headless: false mode.)
+* **Kopeechka Api Key**  [Kopeechka](https://kopeechka.store/) (won't work without)
+* **Proxy İnfo(Residential)**  [İproyal](https://iproyal.com/) ( not necessary, better if used)
   
 
 
