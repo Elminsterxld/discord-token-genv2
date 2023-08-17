@@ -29,4 +29,4 @@ Customizable options in `config.json`
   
 
 
-![Demo](https://media.discordapp.net/attachments/173539009291616256/1141653174072115334/image.png?width=1440&height=315)
+![Demo](https://media.discordapp.net/attachments/173539009291616256/1141661932080861247/image.png?width=1440&height=442)
